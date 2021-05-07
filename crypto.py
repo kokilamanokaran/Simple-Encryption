@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 
-"""
-Stanford CS106A Crypto Project
-"""
-
 import sys
 
 # provided ALPHABET constant - list of the regular alphabet
